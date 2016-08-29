@@ -4,3 +4,8 @@
 */cache/*
 !*/cache/index.html
 !*/cache/.htaccess
+.phpintel
+.vagrant
+.sass-cache
+node_modules
+*.map
